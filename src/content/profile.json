@@ -1,0 +1,317 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "samuel-abati",
+  "name": {
+    "first": "Samuel",
+    "last": "Abati",
+    "full": "Samuel Abati",
+    "preferred": "Sam"
+  },
+  "tagline": "Name the goal. Clear the bar.",
+  "headline": "Texas Track & Field · Pole Vault",
+  "eventGroup": "jumps",
+  "events": [
+    "Pole vault"
+  ],
+  "hometown": "San Antonio, Texas",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Corporate Communication",
+    "classYear": "Junior",
+    "gradDate": "Expected May 2028"
+  },
+  "contact": {
+    "email": "sda2348@my.utexas.edu",
+    "instagram": "https://www.instagram.com/sam.abati",
+    "tiktok": "https://www.tiktok.com/@sam_abati"
+  },
+  "bio": {
+    "short": "Sam Abati is a Texas pole vaulter from San Antonio and the 2024 UIL 6A state champion. He ranks No. 6 indoors and tied No. 8 outdoors on the Longhorns' all-time lists. A Corporate Communication major, he was a 2026 Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Sam Abati raises the bar steadily. As a sophomore in 2026 he won the Leonard Hilton Memorial, set an indoor best of 5.46m to place eighth at the SEC Indoor Championships, then cleared 5.50m (18-0.50) at the Tom Jones Memorial and matched it to finish fifth at the SEC Outdoor Championships. Those marks make him the No. 6 indoor and tied No. 8 outdoor pole vaulter in Texas history. Before college he won the 2024 UIL 6A state title and left Ronald Reagan High School holding the San Antonio-area record of 17-6.",
+      "Abati grew up in San Antonio and lettered all four years in track at Reagan. After finishing state runner-up as a junior, he set two goals for his senior season, the school record and a state title, and achieved both. Now a junior at Texas studying Corporate Communication, he has twice made the USTFCCCA All-Academic Team and earned SEC Academic Honor Roll recognition. He describes himself as proactive, with a mindset \"all about growth and action\", and away from the vault pit he fishes and golfs.",
+      "Pole vault rewards people who break a big goal into small, repeatable pieces: the approach, the plant, the takeoff, the adjustment for the next attempt. Abati brought that habit to Feniex Industries, the Austin manufacturer of emergency-vehicle lighting and electronics, as a 2026 Project Manager Intern. He supported cross-functional projects by keeping schedules, status updates and documentation clear for the people relying on them. He communicates plainly, prepares thoroughly and treats every attempt as information for the next one."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Outdoor pole vault best",
+      "value": "5.50m",
+      "note": "Tom Jones Memorial 2026; matched at SEC Outdoors 2026"
+    },
+    {
+      "label": "Texas all-time indoor performers",
+      "value": "No. 6",
+      "note": "5.46m, SEC Indoor Championships 2026"
+    },
+    {
+      "label": "SEC Outdoor Championships",
+      "value": "5th",
+      "note": "Pole vault, 2026"
+    },
+    {
+      "label": "UIL 6A state meet",
+      "value": "1st",
+      "note": "Pole vault, Ronald Reagan HS, 2024"
+    }
+  ],
+  "prs": [
+    {
+      "event": "Pole vault",
+      "mark": "5.50m (18-0.50)",
+      "meet": "Tom Jones Memorial Invitational",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "Pole vault",
+      "mark": "5.46m (17-11)",
+      "meet": "SEC Indoor Championships",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "Pole vault (high school)",
+      "mark": "5.33m (17-6)",
+      "meet": "Reagan HS school and San Antonio-area record",
+      "year": "2024",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2023",
+      "title": "UIL 6A state runner-up",
+      "detail": "Placed second in the pole vault at the state meet for Ronald Reagan High School."
+    },
+    {
+      "year": "2024",
+      "title": "UIL 6A state champion",
+      "detail": "Won the state title at 16-6, set the school and San Antonio-area record at 17-6, and earned U20 Outdoor and New Balance Indoor All-America honors."
+    },
+    {
+      "year": "2025",
+      "title": "Freshman season at Texas",
+      "detail": "Cleared 5.32m indoors and 5.30m outdoors and qualified for the NCAA West First Round."
+    },
+    {
+      "year": "2026",
+      "title": "SEC scorer",
+      "detail": "Won the Leonard Hilton Memorial, placed eighth at SEC Indoors (5.46m) and fifth at SEC Outdoors, matching his 5.50m career best."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported cross-functional projects at the Austin-based maker of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2025, 2026"
+    },
+    {
+      "title": "SEC Academic Honor Roll",
+      "year": "Spring 2026"
+    },
+    {
+      "title": "First-Year SEC Academic Honor Roll",
+      "year": "2024-25"
+    },
+    {
+      "title": "UIL 6A State Champion, Pole Vault",
+      "year": "2024"
+    },
+    {
+      "title": "U20 Outdoor All-American",
+      "year": "2024"
+    },
+    {
+      "title": "New Balance Indoor All-American",
+      "year": "2024"
+    },
+    {
+      "title": "USA Today National Team",
+      "year": "2024"
+    },
+    {
+      "title": "THSCA Super Elite Team",
+      "year": "2023, 2024"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "I am a proactive person who loves staying active.",
+      "source": "Sam Abati, Opendorse athlete profile",
+      "date": "2024"
+    },
+    {
+      "quote": "My mindset is all about growth and action.",
+      "source": "Sam Abati, Opendorse athlete profile",
+      "date": "2024"
+    }
+  ],
+  "press": [
+    {
+      "title": "Samuel Abati Flies to Victory in the Pole Vault",
+      "outlet": "MileSplit Texas",
+      "date": "2024-05-04",
+      "url": "https://tx.milesplit.com/articles/347612/samuel-abati-flies-to-victory-in-the-pole-vault"
+    },
+    {
+      "title": "Track and Field's Abati and Kowalski secure wins at Leonard Hilton Memorial",
+      "outlet": "Texas Athletics",
+      "date": "2026-01-10",
+      "url": "https://texaslonghorns.com/news/2026/1/10/track-field-cross-country-sam-abati-and-grace-kowalski-secure-wins-at-leonard-hilton-memorial"
+    },
+    {
+      "title": "3 medals to Texas, 3 athletes to Arkansas: Historic SEC Indoor Championship for Longhorns",
+      "outlet": "The Daily Texan",
+      "date": "2026-03-05",
+      "url": "https://thedailytexan.com/2026/03/05/3-medals-to-texas-3-athletes-to-arkansas-historic-sec-indoor-championship-for-longhorns/"
+    },
+    {
+      "title": "No. 4/5 Track & Field post strong Friday at Tom Jones Memorial Invitational",
+      "outlet": "Texas Athletics",
+      "date": "2026-04-17",
+      "url": "https://texaslonghorns.com/news/2026/4/17/track-field-cross-country-no-4-5-track-field-post-strong-friday-at-tom-jones-memorial-invitational"
+    },
+    {
+      "title": "Track & Field builds momentum on day two of SEC Outdoor Championships",
+      "outlet": "Texas Athletics",
+      "date": "2026-05-15",
+      "url": "https://texaslonghorns.com/news/2026/5/15/track-field-cross-country-texas-builds-momentum-on-day-two-of-sec-outdoor-track-field-championships"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Goal setting",
+      "detail": "Named two targets for his senior season, the school record and a state title, and reached both."
+    },
+    {
+      "title": "Steady improvement",
+      "detail": "Raised his collegiate best from 5.32m as a freshman to 5.50m as a sophomore."
+    },
+    {
+      "title": "Big-meet composure",
+      "detail": "Set or matched career bests at both 2026 SEC Championships and scored points for Texas each time."
+    },
+    {
+      "title": "Academic balance",
+      "detail": "Earned USTFCCCA All-Academic honors twice while competing in the SEC as a Corporate Communication major."
+    }
+  ],
+  "resume": {
+    "summary": "Corporate Communication major and Texas Track & Field pole vaulter with SEC scoring experience and two USTFCCCA All-Academic honors. Project Manager Intern at Feniex Industries supporting cross-functional coordination, stakeholder updates and process documentation.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Coordinated cross-functional project tasks with engineering, production and sales teams at an American manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Prepared stakeholder status updates and kept project schedules and action items current for team leads.",
+          "Drafted and updated process documentation and standard operating procedures for internal teams.",
+          "Used Claude and other AI tools daily to draft communications, summarize meeting notes and streamline routine project work."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's degree, Corporate Communication",
+        "dates": "2024 – Expected May 2028",
+        "details": [
+          "USTFCCCA All-Academic Team (2025, 2026)",
+          "SEC Academic Honor Roll (Spring 2026); First-Year SEC Academic Honor Roll (2024-25)"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Pole Vaulter",
+        "org": "University of Texas Track & Field (SEC)",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Cleared a career-best 5.50m (18-0.50) at the 2026 Tom Jones Memorial and matched it to place 5th at the 2026 SEC Outdoor Championships.",
+          "Placed 8th at the 2026 SEC Indoor Championships with an indoor best of 5.46m, No. 6 on the Texas all-time indoor list.",
+          "Won the 2026 Leonard Hilton Memorial; competed at the NCAA West First Round in 2025 and 2026."
+        ]
+      },
+      {
+        "role": "Pole Vaulter",
+        "org": "Ronald Reagan High School, San Antonio",
+        "dates": "2020 – 2024",
+        "bullets": [
+          "Won the 2024 UIL 6A state title after placing 2nd in 2023.",
+          "Set the school and San Antonio-area record at 17-6 (5.33m); 2024 U20 Outdoor and New Balance Indoor All-American."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling & Status Tracking",
+        "Stakeholder Communication",
+        "Process Documentation",
+        "Cross-Functional Collaboration",
+        "Corporate Communication",
+        "Business Writing & Presentations"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "USTFCCCA All-Academic Team",
+        "year": "2025, 2026"
+      },
+      {
+        "title": "SEC Academic Honor Roll",
+        "year": "Spring 2026"
+      },
+      {
+        "title": "UIL 6A State Champion, Pole Vault",
+        "year": "2024"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Sam is the kind of competitor I trust with a long project. A pole vaulter has to plan every step of the approach and stay calm when the bar goes up. He brought that same patience and preparation to our team at Feniex.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.49,
+      "y": 0.445,
+      "zoom": 1.2
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg"
+    ],
+    "actionAlt": [
+      "Sam Abati arches over the pole vault crossbar against a clear blue sky"
+    ]
+  },
+  "photoCredits": [
+    "Courtesy of Sam Abati",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://samuel-abati.vercel.app"
+  },
+  "seo": {
+    "title": "Samuel Abati | Texas Track & Field · Project Management",
+    "description": "Sam Abati: Texas pole vaulter, 2024 UIL 6A state champion and Corporate Communication major. 2026 Project Manager Intern at Feniex Industries."
+  },
+  "noindex": true
+}
